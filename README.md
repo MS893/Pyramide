@@ -1,0 +1,2 @@
+# Pyramide
+Affiche une pyramide
